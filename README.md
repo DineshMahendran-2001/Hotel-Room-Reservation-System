@@ -26,4 +26,4 @@ The Hotel Room Reservation System is a comprehensive web application designed to
 5. Administrators can access the admin dashboard to manage rooms, bookings, and customer data.
 
 # Contact
-For any inquiries or feedback, please contact the project maintainer at [dinesh.mahendran2001@gmail.com](mailto:dinesh.mahendran2001@gmail.com).
+For any inquiries or feedback, please contact the project maintainer at [dineshmahendran2001@gmail.com](mailto:dineshmahendran2001@gmail.com).
