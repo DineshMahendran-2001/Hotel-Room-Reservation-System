@@ -12,7 +12,7 @@ The Hotel Room Reservation System is a comprehensive web application designed to
 - Admin dashboard for managing rooms, bookings, and customers
 - Responsive design for seamless experience on various devices
 
-## Technologies Used
+# Technologies Used
 - Java
 - J2EE
 - DBMS(Database Management System)
